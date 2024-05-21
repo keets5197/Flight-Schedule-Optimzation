@@ -3,9 +3,6 @@
 ## Project Overview
 This project focuses on analyzing and optimizing airplane connectivity using Graph Machine Learning and Linear Programming algorithms. Our goal is to enhance operational efficiency, improve customer satisfaction, and optimize economic performance within the aviation industry.
 
-## Team Members
-- **Keertana Madan**
-
 ## Problem Statement and Objectives
 The aviation industry faces numerous challenges that directly affect operational efficiency, customer satisfaction, and economic performance. In this project, we tackle five key problems:
 1. **Predict Delays**: Develop predictive models for flight delays to enhance operational efficiency and reduce costs.
